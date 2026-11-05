@@ -1,20 +1,22 @@
 <div align="center">
 
-```
-        ____________
-     .-'            '-.
-    /   .--.    .--.   \
-   |   ( () )  ( () )   |
-   |    '--'    '--'    |
-    \       /\/\       /
-     '.    \____/    .'
-       '-.  |||||  .-'
-          |_|||||_|
-     ~ H A D D I   M E R A   B U D D Y ~
+```text
+       ____________
+    .-'            '-.
+   /   .--.    .--.   \
+  |   ( () )  ( () )   |
+  |    '--'    '--'    |
+   \       /\/\       /
+    '.    \____/    .'
+      '-.  |||||  .-'
+         | ||||| |
+    ~ H A D D I   M E R A   B U D D Y ~
 ```
 
 # ☠️ THE GRIM ADVENTURES ☠️
 ### *a cartoon underworld that lives entirely in your browser*
+
+[![LIVE WEBSITE](https://img.shields.io/badge/PLAY%20LIVE-THE%20GRIM%20ADVENTURES-7CFF3A?style=for-the-badge&labelColor=0b0b0f)](https://the-grim-adventures.arson79r.workers.dev/)
 
 ![souls](https://img.shields.io/badge/SOULS%20COLLECTED-%E2%88%9E-7CFF3A?style=for-the-badge&labelColor=0b0b0f)
 ![backend](https://img.shields.io/badge/BACKEND-DEAD%20(NONE)-9b4dff?style=for-the-badge&labelColor=0b0b0f)
@@ -22,6 +24,8 @@
 ![uploads](https://img.shields.io/badge/UPLOADS-ZERO-7CFF3A?style=for-the-badge&labelColor=0b0b0f)
 
 **⚠ WARNING: Prolonged exposure may cause uncontrollable slapping. ⚠**
+
+### 🎮 [ENTER THE UNDERWORLD](https://the-grim-adventures.arson79r.workers.dev/)
 
 </div>
 
@@ -33,13 +37,13 @@
 |---|---|
 | **Deceased** | Your boring weekend |
 | **Cause** | Being slapped by a very angry girl, in a camera, in an arcade |
-| **Time** | Whenever you opened `grim-adventures.html` |
+| **Time** | Whenever you enter the underworld |
 | **Witnesses** | One reaper, one nose, zero regrets |
 | **Signed** | 💀 |
 
 ---
 
-## 🕯️ THE SUMMONING RITUAL (install)
+## 🕯️ THE SUMMONING RITUAL (installation)
 
 No cauldron. No npm. No build step. Only a file.
 
@@ -47,14 +51,18 @@ No cauldron. No npm. No build step. Only a file.
 # 1. Obtain the cursed file
 git clone <your-repo-url> underworld && cd underworld
 
-# 2. Summon it locally (camera needs https or localhost, spirits are picky)
+# 2. Summon it locally (camera needs HTTPS or localhost)
 python3 -m http.server 6666
 
 # 3. Open the portal
-#    http://localhost:6666/grim-adventures.html
+# http://localhost:6666/grim-adventures.html
 ```
 
-Or simply double-click the file. The skeleton won’t judge. *(The camera might, though.)*
+Or simply visit the deployed website:
+
+**https://the-grim-adventures.arson79r.workers.dev/**
+
+The skeleton won't judge. *(The camera might, though.)*
 
 ---
 
@@ -64,34 +72,46 @@ Or simply double-click the file. The skeleton won’t judge. *(The camera might,
 <tr><td width="50%">
 
 ### 💀 I. The Underworld
+
 A glitching landing page with floating skulls, halftone dots, CRT scanlines and a poster that refuses to sit still.
 
 </td><td>
 
 ### 📸 II. Underworld Camera
-A real webcam, real-time filters, stickers you can drag and resize, timer, flash, big shutter button. **Nothing ever leaves your device.**
+
+A real webcam, real-time filters, stickers you can drag and resize, timer, flash, big shutter button.
+
+**Nothing ever leaves your device.**
 
 </td></tr>
 <tr><td>
 
 ### 🖐️ III. Mandy Slaps Billy
-Slap. Combo. Screen shake. Watch Mandy’s anger meter climb to **RAGE MODE**. High score kept in your browser’s LocalStorage.
+
+Slap. Combo. Screen shake. Watch Mandy's anger meter climb to **RAGE MODE**.
+
+High score kept in your browser's LocalStorage.
 
 </td><td>
 
-### 🕹️ IV. Grim’s Arcade
-**Catch Billy** · **Escape Grim** (he throws his *haddi*, aim carefully) · **Mandy’s Memory**
+### 🕹️ IV. Grim's Arcade
+
+**Catch Billy** · **Escape Grim** (he throws his *haddi*, aim carefully) · **Mandy's Memory**
 
 </td></tr>
 <tr><td>
 
 ### 🎭 V. The Crew
+
 Poke the characters. They talk back. Each has its own animation and sound.
 
 </td><td>
 
 ### 🌀 VI. Chaos Generator
-Random jokes, dares and reality-bending screen effects. Not recommended before bed.
+
+Random jokes, dares and reality-bending screen effects.
+
+Not recommended before bed.
 
 </td></tr>
 </table>
@@ -102,7 +122,7 @@ Random jokes, dares and reality-bending screen effects. Not recommended before b
 
 All twelve are drawn live on an HTML canvas. No face tracking, no AI, no cloud. Just pixels, math and mischief.
 
-```
+```text
  [ BILLY EYES ]   [ MANDY ANGRY ]   [ GRIM SKULL ]
  [   ZOMBIE   ]   [ DEMON HORNS ]   [ GLOWING EYES ]
  [  BIG HEAD  ]   [  TINY FACE  ]   [     VHS      ]
@@ -127,19 +147,21 @@ Every one has an **intensity slider**. The photo you capture matches what you sa
 ## 🔒 ██████ CLASSIFIED ██████
 
 > *Some doors have no handles.*
-> *Some skulls aren’t just decoration.*
-> *The Reaper hides one thing in this place, and he’s very bad at hiding it.*
+>
+> *Some skulls aren't just decoration.*
+>
+> *The Reaper hides one thing in this place, and he's very bad at hiding it.*
 
 <details>
 <summary>☠️ <b>Do NOT open this</b> ☠️</summary>
 
 <br>
 
-```
- ╔══════════════════════════════════════╗
- ║   ACCESS DENIED.  GRIM HAS BEEN      ║
- ║   NOTIFIED.  HE IS NOT HAPPY.        ║
- ╚══════════════════════════════════════╝
+```text
+╔══════════════════════════════════════╗
+║   ACCESS DENIED.  GRIM HAS BEEN      ║
+║   NOTIFIED.  HE IS NOT HAPPY.        ║
+╚══════════════════════════════════════╝
 ```
 
 There is a secret feature. **No spoilers here.** Go find it.
@@ -165,13 +187,13 @@ Bug reports are welcome. Bring screenshots, bones, or both.
 
 This is an unofficial **fan project**. *The Grim Adventures of Billy & Mandy* and its characters belong to their respective owners. This project is not affiliated with or endorsed by them.
 
-Code: choose your own license and put it here before you go public. Until then, everything is *all rights reserved*, which is also the Reaper’s favorite phrase.
+Code: choose your own license and put it here before you go public. Until then, everything is *all rights reserved*, which is also the Reaper's favorite phrase.
 
 ---
 
 <div align="center">
 
-```
+```text
    .-.
   (o.o)   "Death is a job.
    |=|     Documentation is eternal."
@@ -180,5 +202,7 @@ Code: choose your own license and put it here before you go public. Until then, 
 ```
 
 **Made with 💀, 🍩, and an unreasonable amount of slapping.**
+
+### ☠️ [VISIT THE UNDERWORLD](https://the-grim-adventures.arson79r.workers.dev/)
 
 </div>
