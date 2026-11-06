@@ -1,17 +1,6 @@
 <div align="center">
 
-```text
-       ____________
-    .-'            '-.
-   /   .--.    .--.   \
-  |   ( () )  ( () )   |
-  |    '--'    '--'    |
-   \       /\/\       /
-    '.    \____/    .'
-      '-.  |||||  .-'
-         | ||||| |
-    ~ H A D D I   M E R A   B U D D Y ~
-```
+
 
 # ☠️ THE GRIM ADVENTURES ☠️
 ### *a cartoon underworld that lives entirely in your browser*
